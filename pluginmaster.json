@@ -1,0 +1,22 @@
+[
+	{
+		"Author": "scrolledtoofar",
+		"Name": "Shears",
+		"Punchline": "No more Fur.",
+		"Description": "Changes all Horthgars into a race of your choice. Modified from Potato Famine",
+		"InternalName": "Shears",
+		"AssemblyVersion": "1.0.0.2",
+		"RepoUrl": "https://github.com/scrolledtoofar/Shears",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 9,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 0,
+		"LoadPriority": 0,
+		"DownloadLinkInstall": "https://raw.githubusercontent.com/scrolledtoofar/XIVPlugins/master/plugins/Shears/latest.zip",
+		"DownloadLinkTesting": "https://raw.githubusercontent.com/scrolledtoofar/XIVPlugins/master/plugins/Shears/latest.zip",
+		"DownloadLinkUpdate": "https://raw.githubusercontent.com/scrolledtoofar/XIVPlugins/master/plugins/Shears/latest.zip",
+		"IconUrl": "https://raw.githubusercontent.com/scrolledtoofar/Shears/master/Resources/Icons/shears.png"
+	}
+]
